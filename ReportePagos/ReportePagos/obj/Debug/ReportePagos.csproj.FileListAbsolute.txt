@@ -1,4 +1,7 @@
 C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe.config
+<<<<<<< HEAD
+C:\Users\Leonardo\Desktop\Parnet\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe.config
+=======
 C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe.config
 C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe
 C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.pdb
@@ -8,3 +11,9 @@ C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\Report
 C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.csproj.GenerateResource.Cache
 C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.exe
 C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.pdb
+>>>>>>> e59b55bb03a206c2942e85eec99e29358fea95aa
+C:\Users\Leonardo\Desktop\Parnet\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.exe
+C:\Users\Leonardo\Desktop\Parnet\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.pdb
+\\vmware-host\Shared Folders\Parnet\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe.config
+\\vmware-host\Shared Folders\Parnet\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.exe
+\\vmware-host\Shared Folders\Parnet\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.pdb
