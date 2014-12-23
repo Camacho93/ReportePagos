@@ -1,0 +1,10 @@
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\x86\Debug\ReportePagos.exe.config
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReportePagos.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReportePagos.Form1.resources
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReporteVentasExistencias.frmviewer.resources
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReportePagos.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReportePagos.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\x86\Debug\ReportePagos.exe
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\x86\Debug\ReportePagos.pdb
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReportePagos.exe
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\x86\Debug\ReportePagos.pdb
