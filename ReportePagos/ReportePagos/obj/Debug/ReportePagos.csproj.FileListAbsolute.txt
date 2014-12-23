@@ -1,1 +1,10 @@
 C:\Users\Gerardo\Documents\Visual Studio 2013\Projects\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe.config
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe.config
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.exe
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\bin\Debug\ReportePagos.pdb
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.csprojResolveAssemblyReference.cache
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.Form1.resources
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.Properties.Resources.resources
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.csproj.GenerateResource.Cache
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.exe
+C:\Users\Gerardo\Desktop\ReportePagos\ReportePagos\ReportePagos\obj\Debug\ReportePagos.pdb
